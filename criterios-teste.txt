@@ -1,0 +1,3 @@
+1) Se o cliente possuir saldo positivo e maior que o valor do debito, debita valor da conta dele
+2) Se o cliente possuir saldo positivo, mas menor que o valor do debito, nao debita o valor da conta dele
+3) Se o cliente possuir saldo negativo, nao debita o valor da conta dele
